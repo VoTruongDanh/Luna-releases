@@ -15,7 +15,6 @@
 
 <br/>
 
-<!-- ANIMATED HERO -->
 <a href="https://github.com/VoTruongDanh/Luna-releases">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=2200&pause=650&color=00F5FF&center=true&vCenter=true&repeat=true&width=850&height=85&lines=LUNA+%2F%2F+UNIVERSAL+MEDIA;ZERO+ADS.+ZERO+DISTRACTIONS.;BACKGROUND+PLAYBACK+UNLOCKED.;PURE+BLACK.+NEON+EXPERIENCE.;UPDATE.+PLAY.+DISAPPEAR."
@@ -31,9 +30,7 @@
   <code>ZERO ADS</code>
 </p>
 
-<h3>
-  Phát nội dung theo cách nó nên được phát.
-</h3>
+<h3>Phát nội dung theo cách nó nên được phát.</h3>
 
 <p>
   Không quảng cáo. Không gián đoạn. Không thừa thãi.
@@ -43,7 +40,6 @@
 
 <br/>
 
-<!-- BADGES -->
 <a href="https://github.com/VoTruongDanh/Luna-releases/releases">
   <img src="https://img.shields.io/badge/RELEASE-v1.0.2-00F5FF?style=for-the-badge&labelColor=050505&logo=github&logoColor=white" alt="Release"/>
 </a>
@@ -52,11 +48,10 @@
 
 <img src="https://img.shields.io/badge/ADS-ZERO-00F5FF?style=for-the-badge&labelColor=050505&logo=adblock&logoColor=white" alt="Zero Ads"/>
 
-<img src="https://img.shields.io/badge/UI-OLED_BLACK-FFFFFF?style=for-the-badge&labelColor=050505&logoColor=white" alt="OLED"/>
+<img src="https://img.shields.io/badge/UI-OLED_BLACK-FFFFFF?style=for-the-badge&labelColor=050505" alt="OLED"/>
 
 <br/><br/>
 
-<!-- PRIMARY CTA -->
 <a href="https://github.com/VoTruongDanh/Luna-releases/releases">
   <img
     src="https://img.shields.io/badge/%E2%86%93_DOWNLOAD_LATEST_APK-00F5FF?style=for-the-badge&labelColor=000000&logo=android&logoColor=000000"
@@ -67,15 +62,9 @@
 
 <br/><br/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80&fontColor=00F5FF&fontSize=15"
-  width="100%"
-  alt=""
-/>
-
 </div>
 
-<br/>
+---
 
 ## `01 // LUNA`
 
@@ -186,39 +175,23 @@ Không thao tác dư thừa.
 
 <div align="center">
 
-## `03 // GET LUNA`
+## `03 // DOWNLOAD`
 
-### QUÉT QR • TẢI APK • CÀI ĐẶT
+### GET THE LATEST LUNA
 
 <br/>
 
 <a href="https://github.com/VoTruongDanh/Luna-releases/releases">
   <img
-    width="300"
-    alt="LUNA Download QR Code"
-    src="https://github.com/user-attachments/assets/d85960d8-34f9-4789-b515-705e2a2cedca"
-  />
-</a>
-
-<br/><br/>
-
-`SCAN TO ENTER LUNA`
-
-<br/><br/>
-
-<a href="https://github.com/VoTruongDanh/Luna-releases/releases">
-  <img
     src="https://img.shields.io/badge/DOWNLOAD-LATEST_APK-00F5FF?style=for-the-badge&labelColor=000000&logo=android&logoColor=000000"
-    height="44"
-    alt="Download APK"
+    height="46"
+    alt="Download Latest APK"
   />
 </a>
 
 <br/><br/>
 
-<sub>
-QR Code và nút phía trên dẫn tới khu vực phát hành chính thức của LUNA.
-</sub>
+<code>GITHUB RELEASES // OFFICIAL DISTRIBUTION</code>
 
 </div>
 
@@ -242,18 +215,9 @@ flowchart LR
     linkStyle 2 stroke:#00F5FF,stroke-width:2px
 ```
 
-### Cài đặt thủ công
-
-**01.** Mở trang **Releases**.
-
-**02.** Tải file `.apk` mới nhất.
-
-**03.** Nếu Android yêu cầu, bật quyền:
-
-```text
-Allow installation from this source
-```
-
+**01.** Mở trang **Releases**.  
+**02.** Tải file `.apk` mới nhất.  
+**03.** Nếu Android yêu cầu, cho phép cài đặt từ nguồn này.  
 **04.** Cài đặt và mở **LUNA**.
 
 <div align="center">
@@ -330,7 +294,48 @@ Allow installation from this source
 
 ---
 
-## `08 // DESIGN LANGUAGE`
+<div align="center">
+
+## `08 // SUPPORT LUNA`
+
+### KEEP LUNA ALIVE
+
+LUNA được phát hành miễn phí.
+
+Nếu bạn thích dự án và muốn hỗ trợ quá trình phát triển,  
+bạn có thể **donate trực tiếp qua QR bên dưới**.
+
+<br/>
+
+<img
+  width="280"
+  height="282"
+  alt="Donate to LUNA"
+  src="https://github.com/user-attachments/assets/d85960d8-34f9-4789-b515-705e2a2cedca"
+/>
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=SUPPORT+THE+PROJECT.;KEEP+LUNA+FREE.;KEEP+LUNA+MOVING+FORWARD."
+  alt="Support LUNA"
+/>
+
+<br/>
+
+<code>SCAN QR // DONATE // SUPPORT DEVELOPMENT</code>
+
+<br/><br/>
+
+<sub>
+Donate là hoàn toàn tự nguyện và không ảnh hưởng đến việc sử dụng LUNA.
+</sub>
+
+</div>
+
+---
+
+## `09 // DESIGN LANGUAGE`
 
 ```text
 COLOR SYSTEM
@@ -349,13 +354,9 @@ NO VISUAL NOISE.
 ────────────────────────────────────────
 ```
 
-LUNA sử dụng một ngôn ngữ thiết kế tối giản:
-
 **Black** cho không gian.  
 **White** cho thông tin.  
 **Neon Cyan** cho hành động.
-
-Không sử dụng màu sắc chỉ để trang trí.
 
 ---
 
