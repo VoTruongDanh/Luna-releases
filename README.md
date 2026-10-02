@@ -70,6 +70,8 @@ Nếu bạn yêu thích **LUNA** và muốn tiếp sức cho tác giả duy trì
 
 - **Chuyển khoản / QR Code**: Có sẵn trong mục **Cài đặt > Ủng hộ phát triển** bên trong ứng dụng.
 - **Đóng góp ý kiến**: Hãy để lại ngôi sao ⭐ cho repo nếu bạn thấy hữu ích!
+  <img width="466" height="468" alt="image" src="https://github.com/user-attachments/assets/dc705954-2b15-4459-9a73-2bd651c78648" />
+
 
 ---
 
