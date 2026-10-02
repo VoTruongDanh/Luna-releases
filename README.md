@@ -1,89 +1,138 @@
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    LUNA // NEON CORE                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=170&text=LUNA&fontAlign=50&fontAlignY=36&desc=UNIVERSAL%20MEDIA%20EXPERIENCE&descAlign=50&descAlignY=58&color=0:000000,50:050505,100:00F5FF&fontColor=FFFFFF&fontSize=58&animation=fadeIn&stroke=00F5FF&strokeWidth=1"
+  width="100%"
+  alt="LUNA"
+/>
+
 <a href="https://github.com/VoTruongDanh/Luna-releases">
   <img
-    src="https://api.iconify.design/solar:moon-stars-bold-duotone.svg?color=%2300F5FF&width=145&height=145"
-    width="145"
-    height="145"
-    alt="LUNA"
+    src="https://api.iconify.design/solar:moon-stars-bold-duotone.svg?color=%2300F5FF&width=125&height=125"
+    width="125"
+    height="125"
+    alt="LUNA Moon"
   />
 </a>
 
 <br/>
 
-<a href="https://github.com/VoTruongDanh/Luna-releases">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=2200&pause=650&color=00F5FF&center=true&vCenter=true&repeat=true&width=850&height=85&lines=LUNA+%2F%2F+UNIVERSAL+MEDIA;ZERO+ADS.+ZERO+DISTRACTIONS.;BACKGROUND+PLAYBACK+UNLOCKED.;PURE+BLACK.+NEON+EXPERIENCE."
-    alt="LUNA Animated Header"
-  />
-</a>
-
-<p>
-  <code>UNIVERSAL MEDIA EXPERIENCE</code>
-  &nbsp;•&nbsp;
-  <code>ANDROID</code>
-  &nbsp;•&nbsp;
-  <code>ZERO ADS</code>
-</p>
-
-<h3>Phát nội dung theo cách nó nên được phát.</h3>
-
-<p>
-  Không quảng cáo. Không gián đoạn. Không thừa thãi.
-  <br/>
-  <b>Chỉ còn bạn và nội dung.</b>
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=29&duration=1800&pause=450&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&height=75&lines=%E2%96%B6+BOOTING+LUNA...;%E2%96%B6+ZERO+ADS+DETECTED;%E2%96%B6+BACKGROUND+ENGINE+ONLINE;%E2%96%B6+OLED+INTERFACE+READY;%E2%96%B6+WELCOME+TO+LUNA_"
+  alt="LUNA Boot Animation"
+/>
 
 <br/>
+
+<code>◉ ONLINE</code>
+&nbsp;&nbsp;
+<code>◉ ZERO ADS</code>
+&nbsp;&nbsp;
+<code>◉ BACKGROUND PLAY</code>
+&nbsp;&nbsp;
+<code>◉ OTA READY</code>
+
+<br/><br/>
 
 <a href="https://github.com/VoTruongDanh/Luna-releases/releases">
-  <img src="https://img.shields.io/badge/RELEASE-v1.0.2-00F5FF?style=for-the-badge&labelColor=050505&logo=github&logoColor=white" alt="Release"/>
+  <img src="https://img.shields.io/badge/LATEST-v1.0.2-00F5FF?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFFFFF" alt="Version"/>
 </a>
 
-<img src="https://img.shields.io/badge/ANDROID-SUPPORTED-FFFFFF?style=for-the-badge&labelColor=050505&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/ANDROID-READY-FFFFFF?style=for-the-badge&labelColor=000000&logo=android&logoColor=00F5FF" alt="Android"/>
 
-<img src="https://img.shields.io/badge/ADS-ZERO-00F5FF?style=for-the-badge&labelColor=050505&logo=adblock&logoColor=white" alt="Zero Ads"/>
+<img src="https://img.shields.io/badge/ADS-0-00F5FF?style=for-the-badge&labelColor=000000&logo=adblock&logoColor=FFFFFF" alt="Zero Ads"/>
 
 <br/><br/>
 
 <a href="https://github.com/VoTruongDanh/Luna-releases/releases">
   <img
-    src="https://img.shields.io/badge/%E2%86%93_DOWNLOAD_LATEST_APK-00F5FF?style=for-the-badge&labelColor=000000&logo=android&logoColor=000000"
-    height="45"
+    src="https://img.shields.io/badge/%E2%86%93%20DOWNLOAD%20LUNA-LATEST%20APK-00F5FF?style=for-the-badge&labelColor=000000&logo=android&logoColor=000000"
+    height="48"
     alt="Download LUNA"
   />
 </a>
+
+<br/><br/>
+
+<strong>PLAY MORE. SEE LESS. HEAR EVERYTHING.</strong>
 
 </div>
 
 ---
 
-## `01 // FEATURES`
+<div align="center">
+
+## `01 // SYSTEM`
+
+</div>
+
+```text id="cyber001"
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│       ██╗     ██╗   ██╗███╗   ██╗ █████╗                │
+│       ██║     ██║   ██║████╗  ██║██╔══██╗               │
+│       ██║     ██║   ██║██╔██╗ ██║███████║               │
+│       ██║     ██║   ██║██║╚██╗██║██╔══██║               │
+│       ███████╗╚██████╔╝██║ ╚████║██║  ██║               │
+│       ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝               │
+│                                                          │
+│       UNIVERSAL MEDIA ENGINE                             │
+│                                                          │
+│       STATUS        [ ONLINE ]                           │
+│       ADS           [ 0 ]                                │
+│       AUDIO         [ BACKGROUND ENABLED ]               │
+│       DISPLAY       [ OLED / AMOLED ]                    │
+│       UPDATE        [ OTA READY ]                        │
+│                                                          │
+│       > media_without_distractions_                      │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
+
+---
+
+<div align="center">
+
+## `02 // CORE`
+
+</div>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### `ZERO ADS`
+<h3>◈ ZERO ADS</h3>
 
-- Không video quảng cáo chen ngang.
-- Không banner làm gián đoạn.
-- Giao diện tập trung hoàn toàn vào nội dung.
+Không video quảng cáo chen ngang.
 
-> `CONTENT > ADVERTISEMENT`
+Không banner phá vỡ trải nghiệm.
+
+Không pop-up không cần thiết.
+
+<br/>
+
+<code>CONTENT &gt; ADS</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `BACKGROUND PLAY`
+<h3>◈ BACKGROUND PLAY</h3>
 
-- Phát âm thanh khi ứng dụng chạy nền.
-- Tiếp tục nghe khi khóa màn hình.
-- Điều khiển từ notification và tai nghe Bluetooth.
+Nghe khi chuyển ứng dụng.
 
-> `SCREEN OFF // AUDIO ON`
+Nghe khi khóa màn hình.
+
+Điều khiển từ notification và Bluetooth.
+
+<br/>
+
+<code>SCREEN OFF // AUDIO ON</code>
 
 </td>
 
@@ -93,26 +142,35 @@
 
 <td width="50%" valign="top">
 
-### `OTA UPDATE`
+<h3>◈ OTA ENGINE</h3>
 
-- Tự động kiểm tra phiên bản mới.
-- Hiển thị changelog.
-- Tải và cài APK trực tiếp.
+Tự động kiểm tra phiên bản mới.
 
-> `CHECK → DOWNLOAD → UPDATE`
+Hiển thị changelog.
+
+Tải bản cập nhật trực tiếp.
+
+<br/>
+
+<code>CHECK → DOWNLOAD → UPDATE</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `OLED UI`
+<h3>◈ OLED UI</h3>
 
-- Giao diện đen tối ưu OLED / AMOLED.
-- Icon monochrome.
-- Độ tương phản cao.
-- Tối giản và dễ đọc.
+Nền đen sâu.
 
-> `BLACK // WHITE // NEON`
+Icon monochrome.
+
+Tương phản cao.
+
+Tối ưu OLED / AMOLED.
+
+<br/>
+
+<code>BLACK // WHITE // NEON</code>
 
 </td>
 
@@ -123,83 +181,144 @@
 
 <div align="center">
 
-## `02 // DOWNLOAD`
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1300&pause=300&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%5B+LUNA+ENGINE+%5D+LOADING+MEDIA...;%5B+LUNA+ENGINE+%5D+REMOVING+DISTRACTIONS...;%5B+LUNA+ENGINE+%5D+READY."
+  alt="LUNA Engine"
+/>
 
-### GET THE LATEST LUNA
+</div>
+
+```text id="cyber002"
+[████████████████████████████████████████] 100%
+
+MEDIA ENGINE          ONLINE
+BACKGROUND AUDIO      ONLINE
+OLED RENDERER         ONLINE
+ADVERTISEMENT LAYER   NOT FOUND
+
+> READY_
+```
+
+---
+
+<div align="center">
+
+## `03 // DOWNLOAD`
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1700&pause=600&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=GET+THE+LATEST+BUILD;DOWNLOAD.+INSTALL.+PLAY."
+  alt="Download LUNA"
+/>
 
 <br/>
 
 <a href="https://github.com/VoTruongDanh/Luna-releases/releases">
   <img
-    src="https://img.shields.io/badge/DOWNLOAD-LATEST_APK-00F5FF?style=for-the-badge&labelColor=000000&logo=android&logoColor=000000"
-    height="46"
-    alt="Download Latest APK"
+    src="https://img.shields.io/badge/%E2%96%B6%20GET%20LUNA-LATEST%20APK-00F5FF?style=for-the-badge&labelColor=000000&logo=android&logoColor=000000"
+    height="52"
+    alt="Get LUNA"
   />
 </a>
 
 <br/><br/>
 
-<code>GITHUB RELEASES // OFFICIAL DISTRIBUTION</code>
+<a href="https://github.com/VoTruongDanh/Luna-releases/releases">
+  <img src="https://img.shields.io/github/v/release/VoTruongDanh/Luna-releases?style=flat-square&label=release&labelColor=000000&color=00F5FF" alt="Latest Release"/>
+</a>
+
+<img src="https://img.shields.io/github/downloads/VoTruongDanh/Luna-releases/total?style=flat-square&label=downloads&labelColor=000000&color=FFFFFF" alt="Downloads"/>
+
+<br/><br/>
+
+<code>github.com/VoTruongDanh/Luna-releases</code>
 
 </div>
 
 ---
 
-## `03 // INSTALL`
+<div align="center">
 
-```mermaid
+## `04 // INSTALL`
+
+</div>
+
+```mermaid id="cyber003"
 flowchart LR
-    A["01 // DOWNLOAD"] --> B["02 // OPEN APK"]
-    B --> C["03 // ALLOW INSTALL"]
-    C --> D["04 // LUNA"]
+    A["01<br/>DOWNLOAD"] --> B["02<br/>OPEN APK"]
+    B --> C["03<br/>ALLOW"]
+    C --> D["04<br/>LUNA"]
 
-    style A fill:#000000,stroke:#00F5FF,stroke-width:2px,color:#FFFFFF
+    style A fill:#000000,stroke:#00F5FF,stroke-width:3px,color:#00F5FF
     style B fill:#000000,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF
     style C fill:#000000,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF
     style D fill:#000000,stroke:#00F5FF,stroke-width:3px,color:#00F5FF
+
+    linkStyle 0 stroke:#00F5FF,stroke-width:2px
+    linkStyle 1 stroke:#FFFFFF,stroke-width:2px
+    linkStyle 2 stroke:#00F5FF,stroke-width:2px
 ```
 
-1. Mở trang **Releases**.
-2. Tải file `.apk` mới nhất.
-3. Cho phép cài đặt từ nguồn này nếu Android yêu cầu.
-4. Cài đặt và mở **LUNA**.
+<div align="center">
+
+`DOWNLOAD APK`
+
+↓
+
+`OPEN FILE`
+
+↓
+
+`ALLOW INSTALL FROM THIS SOURCE`
+
+↓
+
+**`ENTER LUNA`**
+
+</div>
 
 ---
 
 <div align="center">
 
-## `04 // SUPPORT LUNA`
-
-### KEEP LUNA FREE
-
-LUNA được phát hành miễn phí.
-
-Nếu bạn muốn hỗ trợ quá trình phát triển,  
-có thể **donate trực tiếp qua QR bên dưới**.
-
-<br/>
+## `05 // SUPPORT`
 
 <img
-  width="280"
-  height="282"
-  alt="Donate to LUNA"
-  src="https://github.com/user-attachments/assets/d85960d8-34f9-4789-b515-705e2a2cedca"
-/>
-
-<br/><br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=SUPPORT+THE+PROJECT.;KEEP+LUNA+FREE.;KEEP+LUNA+MOVING+FORWARD."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=1700&pause=650&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=KEEP+LUNA+FREE.;SUPPORT+THE+PROJECT.;POWER+THE+NEXT+BUILD."
   alt="Support LUNA"
 />
 
 <br/>
 
-<code>SCAN QR // DONATE // SUPPORT DEVELOPMENT</code>
+<table>
+<tr>
+<td align="center">
+
+<img
+  width="270"
+  height="272"
+  alt="Donate to LUNA"
+  src="https://github.com/user-attachments/assets/d85960d8-34f9-4789-b515-705e2a2cedca"
+/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<strong>SCAN TO SUPPORT LUNA</strong>
 
 <br/><br/>
 
-<sub>Donate hoàn toàn tự nguyện.</sub>
+<code>DONATE // SUPPORT // KEEP BUILDING</code>
+
+<br/><br/>
+
+<sub>
+LUNA luôn miễn phí. Donate hoàn toàn tự nguyện.
+</sub>
 
 </div>
 
@@ -208,24 +327,38 @@ có thể **donate trực tiếp qua QR bên dưới**.
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%3E+INITIALIZING+LUNA...;%3E+ZERO+ADS+DETECTED;%3E+BACKGROUND+PLAYBACK+ONLINE;%3E+WELCOME+TO+LUNA_"
-  alt="LUNA Terminal Animation"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1200&pause=350&color=00F5FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=%3E+closing+advertisement_layer...+DONE;%3E+starting+background_engine...+DONE;%3E+rendering+OLED_interface...+DONE;%3E+LUNA+IS+READY_"
+  alt="LUNA Footer Animation"
 />
 
 <br/>
 
+```text id="cyber004"
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│              L U N A   //   READY                    │
+│                                                      │
+│      ZERO ADS · BACKGROUND · OLED · OTA              │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
 <a href="https://github.com/VoTruongDanh/Luna-releases/releases">
   <img
     src="https://img.shields.io/badge/ENTER_LUNA_%E2%86%92-00F5FF?style=for-the-badge&labelColor=000000"
-    height="42"
+    height="44"
     alt="Enter LUNA"
   />
 </a>
 
 <br/><br/>
 
-<sub>
-PLAY MORE. SEE LESS. HEAR EVERYTHING.
-</sub>
+<strong>MEDIA. WITHOUT THE NOISE.</strong>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:050505,100:000000"
+  width="100%"
+  alt=""
+/>
 
 </div>
