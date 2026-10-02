@@ -1,83 +1,91 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/VoTruongDanh/Luna-releases/main/assets/luna-banner.png" alt="LUNA Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" onerror="this.style.display='none'"/>
-
-  # 🌙 LUNA — Trải Nghiệm Giải Trí Không Giới Hạn
-
-  **Nền tảng phát đa phương tiện tối ưu, mượt mà và hoàn toàn không quảng cáo.**
-
-  [![GitHub Release](https://img.shields.io/github/v/release/VoTruongDanh/Luna-releases?style=for-the-badge&color=7C3AED&labelColor=0D0D14)](https://github.com/VoTruongDanh/Luna-releases/releases/latest)
-  [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Web-06B6D4?style=for-the-badge&labelColor=0D0D14)](https://github.com/VoTruongDanh/Luna-releases)
-  [![License](https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&labelColor=0D0D14)](LICENSE)
-  [![Status](https://img.shields.io/badge/Build-Passing-22C55E?style=for-the-badge&labelColor=0D0D14)](https://github.com/VoTruongDanh/Luna-releases/actions)
-
-  <br />
-
-  <a href="https://github.com/VoTruongDanh/Luna-releases/releases/latest">
-    <img src="https://img.shields.io/badge/TẢI_VỀ_BẢN_MỚI_NHẤT_(APK)-7C3AED?style=for-the-badge&logo=android&logoColor=white" height="40" alt="Download APK" />
+  <!-- Logo LUNA -->
+  <a href="https://github.com/VoTruongDanh/Luna-releases">
+    <img src="https://raw.githubusercontent.com/VoTruongDanh/Luna-Private/main/public/assets/luna-logo.svg" alt="LUNA Logo" width="130" height="130" />
   </a>
 
-</div>
+  <!-- Tiêu đề động dạng Typing SVG -->
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=34&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=600&height=70&lines=LUNA+%E2%80%94+UNIVERSAL+MEDIA;TR%E1%BA%A2I+NGHI%E1%BB%86M+KH%C3%94NG+QU%E1%BA%A2NG+C%C3%81O;PH%C3%81T+CH%E1%BA%A0Y+N%E1%BB%80N+V%C3%80+T%E1%BA%AET+M%C3%80N+H%C3%88NH;C%E1%BA%ACP+NH%E1%BA%ACT+T%E1%BB%B0+%C4%90%E1%BB%98NG+IN-APP+OTA" alt="LUNA Animated Slogan" />
 
----
+  <p align="center">
+    <strong>Nền tảng phát đa phương tiện tối ưu, mượt mà, thuần khiết và hoàn toàn miễn phí.</strong>
+  </p>
 
-## ✨ Điểm Nổi Bật (Highlights)
+  <!-- Badges & Stats -->
+  <p align="center">
+    <a href="https://github.com/VoTruongDanh/Luna-releases/releases/latest">
+      <img src="https://img.shields.io/github/v/release/VoTruongDanh/Luna-releases?style=for-the-badge&color=7C3AED&labelColor=0F0F1A&logo=github" alt="Release" />
+    </a>
+    <a href="https://github.com/VoTruongDanh/Luna-releases/releases">
+      <img src="https://img.shields.io/github/downloads/VoTruongDanh/Luna-releases/total?style=for-the-badge&color=06B6D4&labelColor=0F0F1A&logo=android" alt="Downloads" />
+    </a>
+    <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Web-10B981?style=for-the-badge&labelColor=0F0F1A&logo=googleplay" alt="Platform" />
+    <img src="https://img.shields.io/badge/AdFree-100%25-E11D48?style=for-the-badge&labelColor=0F0F1A&logo=adblock" alt="No Ads" />
+  </p>
 
-> *"Âm nhạc và video không nên bị ngắt quãng bởi quảng cáo hay giao diện cồng kềnh."*
+  <!-- Nút Tải APK Chính -->
+  <p align="center">
+    <a href="https://github.com/VoTruongDanh/Luna-releases/releases/latest">
+      <img src="https://img.shields.io/badge/TẢI_NGAY_BẢN_MỚI_NHẤT_(APK)-7C3AED?style=for-the-badge&logo=android&logoColor=white" height="42" alt="Download APK" />
+    </a>
+  </p>
 
-* 🚫 **100% Không Quảng Cáo**: Tận hưởng nội dung thuần túy, không gián đoạn giữa chừng.
-* 🎧 **Phát Chạy Nền & Tắt Màn Hình (Background Play)**: Nghe nhạc, podcast ngay cả khi tắt màn hình hoặc chuyển sang ứng dụng khác.
-* ⚡ **Hiệu Năng Cực Nhanh**: Tối ưu luồng dữ liệu, khởi động tức thì, tiêu tốn cực ít pin và dung lượng mạng.
-* 🎨 **Giao Diện Cyberpunk / OLED Dark**: Tỉ mỉ đến từng micro-animation, hiển thị tuyệt đẹp trên màn hình AMOLED/OLED.
-* 🔄 **Cập Nhật Tự Động Trong Ứng Dụng (In-App OTA)**: Thông báo và tải ngay phiên bản mới trực tiếp bên trong app mà không cần tìm link tải lại.
-* 📱 **Hỗ Trợ Đa Nền Tảng**: Sẵn sàng trên Android dạng Native APK và Web PWA.
-
----
-
-## 📸 Giao Diện Trải Nghiệm
-
-| Màn Hình Chính | Trình Phát Thông Minh | Thư Viện Cá Nhân |
-|:---:|:---:|:---:|
-| Khám phá thịnh hành & gợi ý thông minh | Mini-Player trôi nổi + Full Player sắc nét | Quản lý danh sách phát và yêu thích |
-
----
-
-## 🚀 Hướng Dẫn Tải & Cài Đặt
-
-### Cài đặt nhanh trên Android:
-1. Tải file cài đặt APK mới nhất tại [Luna Releases](https://github.com/VoTruongDanh/Luna-releases/releases/latest).
-2. Mở file `.apk` vừa tải về trên thiết bị Android.
-3. Cho phép *"Cài đặt ứng dụng từ nguồn không xác định"* (nếu hệ thống yêu cầu lần đầu).
-4. Mở **LUNA** và tận hưởng!
-
-> 💡 **Mẹo:** Các bản cập nhật tiếp theo sẽ được hệ thống kiểm tra và nâng cấp trực tiếp ngay trong ứng dụng (Settings > Kiểm tra bản cập nhật).
-
----
-
-## 🛠️ Công Nghệ Phát Triển
-
-Dự án được xây dựng với kiến trúc hướng hiệu năng cao:
-- **Core Engine:** Vanilla ES Next, Vite tối ưu bundle siêu nhẹ.
-- **Mobile Runtime:** Capacitor 6 Native Bridge.
-- **Provider Architecture:** YouTube Engine, Decipher Streams & Circuit Breaker chống gián đoạn.
-- **Distribution:** GitHub Actions CI/CD tự động build và ký APK.
-
----
-
-## 💖 Ủng Hộ Phát Triển (Donate)
-
-Nếu bạn yêu thích **LUNA** và muốn tiếp sức cho tác giả duy trì cũng như cập nhật các tính năng mới:
-
-- **Chuyển khoản / QR Code**: Có sẵn trong mục **Cài đặt > Ủng hộ phát triển** bên trong ứng dụng.
-- **Đóng góp ý kiến**: Hãy để lại ngôi sao ⭐ cho repo nếu bạn thấy hữu ích!
-  <img width="466" height="468" alt="image" src="https://github.com/user-attachments/assets/dc705954-2b15-4459-9a73-2bd651c78648" />
-
-
----
-
-<div align="center">
-
-Phát triển với ❤️ bởi **Võ Trường Danh**  
-*LUNA is distributed for personal and educational use.*
+  <!-- Animated Wave Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=90&section=header" width="100%" />
 
 </div>
+
+---
+
+## ⚡ Các Tính Năng Đột Phá
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🚫 Trải Nghiệm Không Quảng Cáo
+* Tạm biệt mọi clip quảng cáo phiền toái xen giữa nội dung.
+* Không banner che lấp màn hình, không video gián đoạn.
+* Tối ưu băng thông mạng, tải video và âm thanh tốc độ cao.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎧 Phát Chạy Nền & Tắt Màn Hình
+* Tiếp tục nghe nhạc, podcast ngay cả khi tắt màn hình điện thoại.
+* Mini-Player trôi nổi dock bottom tiện dụng, vuốt mở Full-Player tức thì.
+* Tích hợp Media Session: điều khiển phát/dừng trực tiếp trên tai nghe, lockscreen, đồng hồ thông minh.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 Cập Nhật Trực Tiếp (In-App OTA)
+* Ứng dụng tự động kiểm tra phiên bản mới nhất từ máy chủ GitHub Releases.
+* Xem chi tiết changelog và nhấn **Cập nhật ngay** bên trong ứng dụng.
+* Tiến trình tải thông minh kèm thông báo hoàn thành tức thì.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖤 Giao Diện OLED Dark Tinh Tế
+* Thiết kế Dark Mode chuyên sâu, tiết kiệm pin cho màn hình AMOLED/OLED.
+* Bảng điều khiển, phím tắt nhanh và thanh trượt trực quan.
+* Bộ icon đơn sắc tối giản, không gây rối mắt, tập trung trọn vẹn vào nội dung.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📲 Hướng Dẫn Cài Đặt Trong 30 Giây
+
+```mermaid
+graph LR
+    A[1. Tải APK từ Releases] --> B[2. Mở file cài đặt]
+    B --> C[3. Cho phép Cài đặt]
+    C --> D[4. Trải nghiệm LUNA!]
