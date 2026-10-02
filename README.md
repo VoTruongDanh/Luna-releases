@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Logo LUNA -->
+  <!-- Logo LUNA Vector Đơn Sắc Hiển Thị 100% -->
   <a href="https://github.com/VoTruongDanh/Luna-releases">
-    <img src="https://raw.githubusercontent.com/VoTruongDanh/Luna-Private/main/public/assets/luna-logo.svg" alt="LUNA Logo" width="140" height="140" />
+    <img src="https://api.iconify.design/solar:moon-stars-bold-duotone.svg?color=%239333ea&width=135&height=135" alt="LUNA Moon Logo" width="135" height="135" />
   </a>
 
   <!-- Animated Typing SVG Header (Motion UI) -->
@@ -17,19 +17,17 @@
 
   <!-- Interactive Badges Matrix -->
   <p align="center">
-    <a href="https://github.com/VoTruongDanh/Luna-releases/releases/latest">
-      <img src="https://img.shields.io/github/v/release/VoTruongDanh/Luna-releases?style=for-the-badge&color=7C3AED&labelColor=0F0F1A&logo=github" alt="Release Version" />
-    </a>
     <a href="https://github.com/VoTruongDanh/Luna-releases/releases">
-      <img src="https://img.shields.io/github/downloads/VoTruongDanh/Luna-releases/total?style=for-the-badge&color=06B6D4&labelColor=0F0F1A&logo=android" alt="Downloads Counter" />
+      <img src="https://img.shields.io/badge/Phiên_Bản-v1.0.2-7C3AED?style=for-the-badge&labelColor=0F0F1A&logo=github" alt="Release Version" />
     </a>
-    <img src="https://img.shields.io/badge/Nền_Tảng-Android%20%7C%20Web-10B981?style=for-the-badge&labelColor=0F0F1A&logo=googleplay" alt="Supported Platforms" />
+    <img src="https://img.shields.io/badge/Nền_Tảng-Android%20%7C%20Web-06B6D4?style=for-the-badge&labelColor=0F0F1A&logo=android" alt="Supported Platforms" />
     <img src="https://img.shields.io/badge/Quảng_Cáo-100%25_Sạch-E11D48?style=for-the-badge&labelColor=0F0F1A&logo=adblock" alt="Zero Ads" />
+    <img src="https://img.shields.io/badge/Trạng_Thái-Sẵn_Sàng-10B981?style=for-the-badge&labelColor=0F0F1A" alt="Status Active" />
   </p>
 
   <!-- High-Affordance CTA Download Button -->
   <p align="center">
-    <a href="https://github.com/VoTruongDanh/Luna-releases/releases/latest">
+    <a href="https://github.com/VoTruongDanh/Luna-releases/releases">
       <img src="https://img.shields.io/badge/TẢI_NGAY_BẢN_MỚI_NHẤT_(APK)-7C3AED?style=for-the-badge&logo=android&logoColor=white" height="42" alt="Tải LUNA APK" />
     </a>
   </p>
